@@ -75,6 +75,6 @@ This project develops a deep learning solution to classify Amazon review sentime
 
 ## Conclusion
 
-This project presents a complete pipeline for sentiment analysis of Amazon reviews using deep learning. The approach—from data cleaning and tokenization to model training with bidirectional LSTMs—demonstrates how to effectively transform raw text into actionable sentiment predictions. The modular design allows for easy adjustments to improve performance or adapt the methodology to other text classification challenges.
+This project presents a complete pipeline for sentiment analysis of Amazon reviews using deep learning. The approach from data cleaning and tokenization to model training with bidirectional LSTMs demonstrates how to effectively transform raw text into actionable sentiment predictions. The modular design allows for easy adjustments to improve performance or adapt the methodology to other text classification challenges.
 
 
